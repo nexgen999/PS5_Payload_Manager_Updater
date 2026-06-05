@@ -47,7 +47,7 @@
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/pegasus_dl_v1.1.0.elf",
       "description": "FreeShop downloader",
       "version": "v1.1.0"
-      "checksum": "ccf08f811e500fedd45b7ba0646342f37180891a0ff5bdc06b7cfe4a4601fe46"
+      "checksum": "0351eda2663a244db293015169685bd0d88ae537863cea786038715e92fb6f54"
     },
     {
       "name": "dump_installer",
@@ -72,6 +72,14 @@
       "description": "Backport payload",
       "version": "v0.1"
       "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "ShadowMountPlus_v1.6test15-fix2.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_game_dump/ShadowMountPlus_v1.6test15-fix2.elf",
+      "description": "Mount game",
+      "version": "v1.6test15-fix2.elf"
+      "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
     },
     {
       "name": "elf-arsenal",

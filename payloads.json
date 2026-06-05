@@ -43,10 +43,10 @@
     },
     {
       "name": "pegasus_dl",
-      "filename": "pegasus_dl_v1.0.0.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/pegasus_dl_v1.0.0.elf",
+      "filename": "pegasus_dl_v1.1.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/pegasus_dl_v1.1.0.elf",
       "description": "FreeShop downloader",
-      "version": "v1.0.0"
+      "version": "v1.1.0"
       "checksum": "ccf08f811e500fedd45b7ba0646342f37180891a0ff5bdc06b7cfe4a4601fe46"
     },
     {

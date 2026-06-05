@@ -1,0 +1,37 @@
+{
+  "name": "ps5_utility (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "chronicloader",
+      "filename": "chronicloader_v0.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/chronicloader_v0.1.elf",
+      "description": "Chronic loader",
+      "version": "v0.1"
+      "checksum": "3561120f85e0ec32de5de15cdd61a1fe8d5146eb4c6aa99ee88209914a2774b1"
+    },
+    {
+      "name": "ghostpad",
+      "filename": "ghostpad-v1.0.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/ghostpad-v1.0.0.elf",
+      "description": "Ghostpad utility",
+      "version": "v1.0.0"
+      "checksum": "94d43a8db7ec9df6e18f0a0da25aac0f60e1a0b14d35bfff261f6f5cdeabdba1"
+    },
+    {
+      "name": "hwinfo_bench",
+      "filename": "hwinfo_bench_v0.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/hwinfo_bench_v0.1.elf",
+      "description": "Hardware benchmark",
+      "version": "v0.1"
+      "checksum": "4514bdbc0c556df1a66544615942d5087d1cbee5c2026b3b66e688ba01e5a5b0"
+    },
+    {
+      "name": "hwinfo_sysinfo",
+      "filename": "hwinfo_sysinfo_v0.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/hwinfo_sysinfo_v0.1.elf",
+      "description": "Hardware system info",
+      "version": "v0.1"
+      "checksum": "ad5014112dec619779619d0ea01a984b3c8267fed682eca5687f34c9eade51cb"
+    }
+  ]
+}

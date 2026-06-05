@@ -1,0 +1,13 @@
+{
+  "name": "ps5_cheat (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "CheatRunner",
+      "filename": "CheatRunner_v0.12.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/CheatRunner_v0.12.elf",
+      "description": "Cheat runner for PS5",
+      "version": "v0.12"
+      "checksum": "129c6c248f4e77cf62465ccf761cccd15f74836ffd090b7a81431fc984b505c2"
+    }
+  ]
+}

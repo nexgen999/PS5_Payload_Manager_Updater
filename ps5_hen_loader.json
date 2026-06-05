@@ -1,0 +1,45 @@
+{
+  "name": "ps5_hen_loader (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "elf-arsenal",
+      "filename": "elf-arsenal_v1.6.6.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/elf-arsenal_v1.6.6.elf",
+      "description": "ELF Arsenal loader",
+      "version": "v1.6.6"
+      "checksum": "9ada95a6f0fe3693bdb2d8aee15c178165382c79069037b97b9b7730d9a11fef"
+    },
+    {
+      "name": "etaHEN 2.6B",
+      "filename": "etaHEN-2.6B.bin",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/etaHEN-2.6B.bin",
+      "description": "etaHEN 2.6B",
+      "version": "2.6B"
+      "checksum": "512c74a9d6f56bb5a4ab871a0306a8cbefb8b3d5454ba8f1d833b020b245a126"
+    },
+    {
+      "name": "etaHEN 2.5B",
+      "filename": "etaHEN_2.5B.bin",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/etaHEN_2.5B.bin",
+      "description": "etaHEN 2.5B",
+      "version": "2.5B"
+      "checksum": "4845cac45095361b8983b14d6690622183b0dcfbf6d7fda16e161aa91ff0531e"
+    },
+    {
+      "name": "kura",
+      "filename": "kura_v1.0.0-beta.22.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/kura_v1.0.0-beta.22.elf",
+      "description": "Kura HEN loader",
+      "version": "v1.0.0-beta.22"
+      "checksum": "5e4489709cc4012aa700d80b51e6657dd9306cf75445c12374cc9b8d5b563abc"
+    },
+    {
+      "name": "pldmgr",
+      "filename": "pldmgr_v0.3.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/pldmgr_v0.3.0.elf",
+      "description": "Payload manager",
+      "version": "v0.3.0"
+      "checksum": "18cdd03af7aed869be8e9ca37856ad159f34d8e816a036f366d176bf8516821d"
+    }
+  ]
+}

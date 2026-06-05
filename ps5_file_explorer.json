@@ -1,0 +1,13 @@
+{
+  "name": "ps5_file_explorer (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "Lapy-JB-Daemon",
+      "filename": "Lapy-JB-Daemon_v1.2.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_file_explorer/Lapy-JB-Daemon_v1.2.elf",
+      "description": "File explorer daemon",
+      "version": "v1.2"
+      "checksum": "13559b858fc33cc7fa3dc89e10dccf139070d99ee5d378dd75c969293700799e"
+    }
+  ]
+}

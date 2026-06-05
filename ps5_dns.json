@@ -1,0 +1,21 @@
+{
+  "name": "ps5_dns (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "chukei-ps5",
+      "filename": "chukei-ps5_v0.9.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_dns/chukei-ps5_v0.9.0.elf",
+      "description": "DNS related payload",
+      "version": "v0.9.0"
+      "checksum": "0cf13e1ed87b57ffa4fdcfca5d9afe1572be29b4f632677cedf17657a972d750"
+    },
+    {
+      "name": "nanodns",
+      "filename": "nanodns_v0.3.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_dns/nanodns_v0.3.elf",
+      "description": "Nano DNS server for PS5",
+      "version": "v0.3"
+      "checksum": "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
+    }
+  ]
+}

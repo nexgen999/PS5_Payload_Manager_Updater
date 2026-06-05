@@ -1,0 +1,101 @@
+{
+  "name": "ps5_server (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "airpsx",
+      "filename": "airpsx_v0.19.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/airpsx_v0.19.elf",
+      "description": "AirPSX server",
+      "version": "v0.19"
+      "checksum": "ae025ca7727b3a8abf6a705903ca9116a6fa6e7f7ead606916109cf9044c5d63"
+    },
+    {
+      "name": "elfldr-ps5",
+      "filename": "elfldr-ps5_v0.23.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/elfldr-ps5_v0.23.elf",
+      "description": "ELF Loader",
+      "version": "v0.23"
+      "checksum": "092d16ee0ede0c494947efd38d1a17bbd7cc4b022d3858ea898833c188c703e8"
+    },
+    {
+      "name": "ftpsrv-ps5-autopause",
+      "filename": "ftpsrv-ps5-autopause_v1.16-ng-test2.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ftpsrv-ps5-autopause_v1.16-ng-test2.elf",
+      "description": "drakmor FTP Server with autopause",
+      "version": "v1.16-ng-test2"
+      "checksum": "da65f0c5b5dffd2b803e2521d73e96d35db4ff9711e661f49be5795f72da2cd3"
+    },
+    {
+      "name": "ftpsrv-ps5-install",
+      "filename": "ftpsrv-ps5-install-v0.20.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ftpsrv-ps5-install-v0.20.elf",
+      "description": "FTP Server installer",
+      "version": "v0.20"
+      "checksum": "23f69de0f1ab1e1a3869473e87a271f750ec595056df0142fabbf21f5153c077"
+    },
+    {
+      "name": "ftpsrv-ps5",
+      "filename": "ftpsrv-ps5_v0.20.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ftpsrv-ps5_v0.20.elf",
+      "description": "FTP Server",
+      "version": "v0.20"
+      "checksum": "8f305a959fb9d70fd8d52ba88409e0d5a1632e83d4ecdd38646a0a33e54089da"
+    },
+    {
+      "name": "gdbsrv-ps5",
+      "filename": "gdbsrv-ps5_v0.8.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/gdbsrv-ps5_v0.8.elf",
+      "description": "GDB Server",
+      "version": "v0.8"
+      "checksum": "7621b829bd8b6d6f3d2328fa12c16af956b0ca128250f92a91eddc100c87f208"
+    },
+    {
+      "name": "klogsrv-ps5",
+      "filename": "klogsrv-ps5_v0.8.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/klogsrv-ps5_v0.8.elf",
+      "description": "Kernel log server",
+      "version": "v0.8"
+      "checksum": "f6eb1b415ecf3340b89a56a0cb04ba5c714430085851ada13a98012b63a5a4cf"
+    },
+    {
+      "name": "ps5upload",
+      "filename": "ps5upload_v2.26.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ps5upload_v2.26.1.elf",
+      "description": "PS5 Upload tool",
+      "version": "v2.26.1"
+      "checksum": "62a249750d600a013a6a1c95a4648235b0e94dcd8b46e59119a1ef05bc8dda61"
+    },
+    {
+      "name": "shsrv-ps5",
+      "filename": "shsrv-ps5_v0.18.2.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/shsrv-ps5_v0.18.2.elf",
+      "description": "Shell server",
+      "version": "v0.18.2"
+      "checksum": "990f7fbcf3761f97db9b97638d3e119352447fb904b2cf70b191c02289e1c69e"
+    },
+    {
+      "name": "websrv-ps5",
+      "filename": "websrv-ps5_v0.32.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/websrv-ps5_v0.32.elf",
+      "description": "Web server for PS5",
+      "version": "v0.32"
+      "checksum": "8dd24df100bff6db156e86bdf9380d5c0fcd2a680c2b08f5c87380d5007190c5"
+    },
+    {
+      "name": "zftpd-ps5",
+      "filename": "zftpd-ps5-v1.4.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/zftpd-ps5-v1.4.0.elf",
+      "description": "ZFTPD Server",
+      "version": "v1.4.0"
+      "checksum": "6d4559e0507ce4e6551e7c81af6bedb98863d28ff5694e76b3f7f94e38b82a96"
+    },
+    {
+      "name": "zftpd-ps5-zhttp",
+      "filename": "zftpd-ps5-zhttp-v1.4.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/zftpd-ps5-zhttp-v1.4.0.elf",
+      "description": "ZFTPD with ZHTTP",
+      "version": "v1.4.0"
+      "checksum": "d882b33c6603d2f605ceb97aee3f229fac50d06082182a3a53eb7ce9b06d0e91"
+    }
+  ]
+}

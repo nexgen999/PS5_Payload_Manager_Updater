@@ -1,0 +1,21 @@
+{
+  "name": "ps5_themes_&_avatars (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "PS5.Custom.Tool.Manager",
+      "filename": "PS5.Custom.Tool.Manager.V1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_themes_&_avatars/PS5.Custom.Tool.Manager.V1.elf",
+      "description": "Custom tool manager for themes & avatars",
+      "version": "V1"
+      "checksum": "297824ceaf6ea53fde57550adf9b5c2fc44c63ef60e8196ab92d351d1615d9cb"
+    },
+    {
+      "name": "ps5-wallpaper-modd",
+      "filename": "ps5-wallpaper-modd_v1.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_themes_&_avatars/ps5-wallpaper-modd_v1.0.elf",
+      "description": "Wallpaper modder",
+      "version": "v1.0"
+      "checksum": "b18a866bac9deff45b921b7d3ea6143d541117b56c666d817ecdc81961829139"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ps5_sdk_debug (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "ps5-fw-spoof",
+      "filename": "ps5-fw-spoof_v26616621599.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-fw-spoof_v26616621599.elf",
+      "description": "Firmware spoof",
+      "version": "v26616621599"
+      "checksum": "f1754521caa92a6a1ac313a1b6c969ec49d67750e290ba99870958290a0961f0"
+    },
+    {
+      "name": "ps5debug-NG",
+      "filename": "ps5debug-NG_v1.2.7.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5debug-NG_v1.2.7.elf",
+      "description": "PS5 Debug tool NG",
+      "version": "v1.2.7"
+      "checksum": "bfb07865611df05d4a07236f375e7e0b64e2f387124052fa67510f8b4fcae1a7"
+    }
+  ]
+}

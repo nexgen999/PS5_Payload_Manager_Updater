@@ -1,0 +1,21 @@
+{
+  "name": "ps5_trophy (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "fw_probe",
+      "filename": "fw_probe_v1.0.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_trophy/fw_probe_v1.0.0.elf",
+      "description": "Firmware probe",
+      "version": "v1.0.0"
+      "checksum": "3a338eccaa236e13e52b790140146f4cf8fd10aa79fd9127e2a91880bd85a1cb"
+    },
+    {
+      "name": "trophy_unlocker",
+      "filename": "trophy_unlocker_allfw_v1.0.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_trophy/trophy_unlocker_allfw_v1.0.0.elf",
+      "description": "Trophy unlocker (all FW)",
+      "version": "v1.0.0"
+      "checksum": "a7a9133a63c1c8ea2ae802fd256d6d2eaea03e7cca5148b8f6cb264ce454974b"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ps5_linux (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "ps5-linux-loader v2.0",
+      "filename": "ps5-linux-loader_v2.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_linux/ps5-linux-loader_v2.0.elf",
+      "description": "PS5 Linux loader",
+      "version": "v2.0"
+      "checksum": "aef472955645ca8beee8c9e8e24539cf16c3d3e4edde7f90b50a7b0fb78c2527"
+    },
+    {
+      "name": "ps5-linux-loader v2.1",
+      "filename": "ps5-linux-loader_v2.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_linux/ps5-linux-loader_v2.1.elf",
+      "description": "PS5 Linux loader",
+      "version": "v2.1"
+      "checksum": "c1014a153e4f60449fd88d6799abfb46d6fb6c3048d77c9641bc8d38d96ead0a"
+    }
+  ]
+}

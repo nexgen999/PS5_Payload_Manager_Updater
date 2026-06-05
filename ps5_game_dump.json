@@ -1,0 +1,37 @@
+{
+  "name": "ps5_game_dump (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "dump_installer",
+      "filename": "dump_installer-v1.0.6b.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_game_dump/dump_installer-v1.0.6b.elf",
+      "description": "Game dump installer",
+      "version": "v1.0.6b"
+      "checksum": "5e74611df5b425f8372b8de892d1b4672232872979521b1d7768e2f93da29a73"
+    },
+    {
+      "name": "ps5-app-dumper",
+      "filename": "ps5-app-dumper_v1.10.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_game_dump/ps5-app-dumper_v1.10.elf",
+      "description": "PS5 App Dumper",
+      "version": "v1.10"
+      "checksum": "95382a9e37987d8eb931cbe5db618e77d293099ef4314e3288d9899bd5ac5c00"
+    },
+    {
+      "name": "ps5-backpork",
+      "filename": "ps5-backpork_v0.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_game_dump/ps5-backpork_v0.1.elf",
+      "description": "Backport payload",
+      "version": "v0.1"
+      "checksum": "d74e4cd119b2bb1fd423f2f5b1c9a7f096b3e588c753af1ab48b983d56216a52"
+    },
+    {
+      "name": "ShadowMountPlus",
+      "filename": "ShadowMountPlus_v1.6test15-fix2.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_game_dump/ShadowMountPlus_v1.6test15-fix2.elf",
+      "description": "Mount game",
+      "version": "v1.6test15-fix2.elf"
+      "checksum": "8ab32f4cede840a73515c05697fe81759bc98cf41fc22b43e09943262f447e99"
+    }
+  ]
+}

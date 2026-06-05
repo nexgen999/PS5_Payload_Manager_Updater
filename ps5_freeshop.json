@@ -1,0 +1,13 @@
+{
+  "name": "ps5_freeshop (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "pegasus_dl",
+      "filename": "pegasus_dl_v1.1.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/pegasus_dl_v1.1.0.elf",
+      "description": "FreeShop downloader",
+      "version": "v1.1.0"
+      "checksum": "0351eda2663a244db293015169685bd0d88ae537863cea786038715e92fb6f54"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "ps5_saves (PLDMGR Updater)",
+  "payloads": [
+    {
+      "name": "garlic-savemgr",
+      "filename": "garlic-savemgr_v1.82b.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_saves/garlic-savemgr_v1.82b.elf",
+      "description": "Save manager (Garlic)",
+      "version": "v1.82b"
+      "checksum": "0683ba0c384c19d184b68f0e47790b77051d404d5fd744c1a9a659f5066e4482"
+    },
+    {
+      "name": "garlic-worker-ps5",
+      "filename": "garlic-worker-ps5_v1.1.4.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_saves/garlic-worker-ps5_v1.1.4.elf",
+      "description": "Garlic worker",
+      "version": "v1.1.4"
+      "checksum": "da311b3ff92fd06acf513a849b9a7eecdc43ecc34e5b7137d9f3f6f2c16c1704"
+    }
+  ]
+}

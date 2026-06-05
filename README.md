@@ -9,14 +9,14 @@
 </div>
 
 <p align="center">
- <img src="./assets/icon0.png" width="128" />
+ <img src="https://github.com/itsPLK/ps5-payload-manager/blob/main/assets/icon0.png" width="128" />
 </p>
 <h1 align="center">PS5 Payload Manager</h1>
 
 <p align="center">A modern, web-based dashboard to easily manage, import, and automatically load payloads on your PS5.</p>
 
 <p align="center">
- <img src="./pldmgr_screenshot.png" width="600" />
+ <img src="https://github.com/itsPLK/ps5-payload-manager/blob/main/pldmgr_screenshot.png" width="600" />
 </p>
 
 This is an unofficial PS5 Repository Source For Payload Manager By ITSPLK from here : https://github.com/itsPLK/ps5-payload-manager

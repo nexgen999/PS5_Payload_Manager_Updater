@@ -155,11 +155,19 @@
     },
     {
       "name": "kstuff-lite v1.0.7",
-      "filename": "kstuff-lite_v1.0.7.elf",
+      "filename": "kstuff-lite_v1.0.7b.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_kstuff/kstuff-lite_v1.0.7b.elf",
       "description": "EchoStretch Kstuff Lite",
       "version": "v1.0.7"
       "checksum": "b65054cc5538d99e785fe7669340c9a2ff7b3a3e94336474c4115008ae487cc2"
+    },
+    {
+      "name": "kstuff-lite v1.0.7b2",
+      "filename": "kstuff-lite_v1.0.7b2.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_kstuff/kstuff-lite_v1.0.7b2.elf",
+      "description": "EchoStretch Kstuff Lite",
+      "version": "v1.0.7b2"
+      "checksum": "ee9679c5c576a8745360314c24fc0da9b24873bcf48fd1b2a5a5ffcae51d99e6"
     },
     {
       "name": "kstuff",
@@ -275,11 +283,11 @@
     },
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v2.28.1.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ps5upload_v2.28.1.elf",
+      "filename": "ps5upload_v2.30.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ps5upload_v2.30.0.elf",
       "description": "PS5 Upload tool",
-      "version": "v2.28.1"
-      "checksum": "85fe8036d710a7a2b469fc4ef552fde8011cd29964c36ed9665b5da0be7e1590"
+      "version": "v2.30.0"
+      "checksum": "7c6cf22cdf905488739c87174bab50ac7fc5f85c83b92847549d4523ae09f7f2"
     },
     {
       "name": "shsrv-ps5",

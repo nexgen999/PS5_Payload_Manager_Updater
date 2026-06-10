@@ -3,11 +3,11 @@
   "payloads": [
     {
       "name": "elf-arsenal",
-      "filename": "elf-arsenal_v1.6.15.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/elf-arsenal_v1.6.15.elf",
+      "filename": "elf-arsenal_v1.6.18.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/elf-arsenal_v1.6.18.elf",
       "description": "ELF Arsenal loader",
-      "version": "v1.6.15"
-      "checksum": "f17f0ea20ae9e0fca16330b2c042bd41588bb681e4a3685339651cdd384ba5d4"
+      "version": "v1.6.18"
+      "checksum": "18d86903f7de649398b1fd501fa0df63f1f2118c67b3fb9ecc71ffa386949b6e"
     },
     {
       "name": "etaHEN 2.6B",

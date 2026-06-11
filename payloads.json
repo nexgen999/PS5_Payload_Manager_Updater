@@ -123,11 +123,11 @@
     },
     {
       "name": "pldmgr",
-      "filename": "pldmgr_v0.3.0.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/pldmgr_v0.3.0.elf",
+      "filename": "pldmgr_v0.3.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/pldmgr_v0.3.1.elf",
       "description": "Payload manager",
-      "version": "v0.3.0"
-      "checksum": "18cdd03af7aed869be8e9ca37856ad159f34d8e816a036f366d176bf8516821d"
+      "version": "v0.3.1"
+      "checksum": "518740adbacccb9094fadb07dd424c53ee290f38306449ccc9d6957fdf813c0b"
     },
     {
       "name": "kstuff-Lite v1.1",

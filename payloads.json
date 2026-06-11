@@ -139,19 +139,11 @@
     },
     {
       "name": "kstuff-Lite v1.2",
-      "filename": "kstuff-Lite_v1.2-dr-test1.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_kstuff/kstuff-Lite_v1.2-dr-test1.elf",
+      "filename": "kstuff-Lite_v1.2-dr-test2.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_kstuff/kstuff-Lite_v1.2-dr-test2.elf",
       "description": "drakmor Kstuff Lite test version",
-      "version": "v1.2-dr-test1"
-      "checksum": "9c1b242eaed3704ef18be45d001a2c4ebf2d9222cfe3cbb0f0c3db33309abac9"
-    },
-    {
-      "name": "kstuff-lite v1.0.6",
-      "filename": "kstuff-lite_v1.0.6.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_kstuff/kstuff-lite_v1.0.6.elf",
-      "description": "EchoStretch Kstuff Lite",
-      "version": "v1.0.6"
-      "checksum": "c8523b06ae2eab935f93e8a538ee3ef36df4ffd6bbc301ecdbff21ff12d654f2"
+      "version": "v1.2-dr-test2"
+      "checksum": "2b699d411079a21dba7c39a02993fc0fb21e52f434103e884a0c892fafe56b75"
     },
     {
       "name": "kstuff-lite v1.0.7",
@@ -160,14 +152,6 @@
       "description": "EchoStretch Kstuff Lite",
       "version": "v1.0.7"
       "checksum": "886c3440c0a5d07e146ae5e7a13c7884fbdd9ef88407d962c29daf2ea1d910c0"
-    },
-    {
-      "name": "kstuff-lite v1.0.7b2",
-      "filename": "kstuff-lite_v1.0.7b2.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_kstuff/kstuff-lite_v1.0.7b2.elf",
-      "description": "EchoStretch Kstuff Lite ( Test version2 )",
-      "version": "v1.0.7b2"
-      "checksum": "ee9679c5c576a8745360314c24fc0da9b24873bcf48fd1b2a5a5ffcae51d99e6"
     },
     {
       "name": "kstuff",

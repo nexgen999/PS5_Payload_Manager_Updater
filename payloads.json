@@ -355,11 +355,11 @@
     },
     {
       "name": "Ghostcontrol",
-      "filename": "Ghostcontrol_v1.0.3.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/Ghostcontrol_v1.0.3.elf",
+      "filename": "Ghostcontrol_v1.0.4.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/Ghostcontrol_v1.0.4.elf",
       "description": "Ghostcontrol - use another gamepad on PS5",
-      "version": "v1.0.3"
-      "checksum": "7504631101b9462ab738ce04c31f5f8b4973a97d3ab63037322307646fca8286"
+      "version": "v1.0.4"
+      "checksum": "e2e658fc3c4b041e630fae897acdefa23c4f79f0adc8473a69b49bfc4897ccf0"
     },
     {
       "name": "hwinfo_bench",

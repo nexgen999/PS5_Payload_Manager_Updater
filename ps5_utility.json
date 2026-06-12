@@ -2,6 +2,14 @@
   "name": "ps5_utility (PLDMGR Updater)",
   "payloads": [
     {
+      "name": "bdj_unpatch_1340",
+      "filename": "bdj_unpatch_1340.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/bdj_unpatch_1340.elf",
+      "description": "bdj_unpatch_1340",
+      "version": "v13.40"
+      "checksum": "fe0a32ab92a575e6a3d0da989d4db37a096cb65e46fe4e37abe54495699227de"
+    },
+    {
       "name": "chronicloader",
       "filename": "chronicloader_v0.1.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_utility/chronicloader_v0.1.elf",

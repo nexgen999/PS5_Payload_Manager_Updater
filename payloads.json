@@ -194,6 +194,38 @@
       "checksum": "da311b3ff92fd06acf513a849b9a7eecdc43ecc34e5b7137d9f3f6f2c16c1704"
     },
     {
+      "name": "ps5-self-decrypter-full-system",
+      "filename": "ps5-self-decrypter-full-system_v0.5.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-decrypter-full-system_v0.5.2",
+      "description": "ps5-self-decrypter-full-system",
+      "version": "v0.5.2"
+      "checksum": "46340d3048a977f5603b3def0a0ba1c85b5c182891388442e51b39e281257b6a"
+    },
+    {
+      "name": "ps5-self-decrypter-game",
+      "filename": "ps5-self-decrypter-game_v0.5.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-decrypter-game_v0.5.2",
+      "description": "ps5-self-decrypter-game",
+      "version": "v0.5.2"
+      "checksum": "190b350759b4f9d50949325e84d131e0953f37a9df271c329ba43c80c0ac7a57"
+    },
+    {
+      "name": "ps5-self-decrypter-shellcore",
+      "filename": "ps5-self-decrypter-shellcore_v0.5.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-decrypter-shellcore_v0.5.2",
+      "description": "ps5-self-decrypter-shellcore",
+      "version": "v0.5.2"
+      "checksum": "15050c691c21c790ae970a1ee99ad3918dd1065fe5512c762fccee6d521c8066"
+    },
+    {
+      "name": "ps5-self-decrypter-system-common-lib",
+      "filename": "ps5-self-decrypter-system-common-lib_v0.5.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-decrypter-system-common-lib_v0.5.2",
+      "description": "ps5-self-decrypter-system-common-lib",
+      "version": "v0.5.2"
+      "checksum": "6a16c6457c604db4846632510da0975f49faba08e6cab9cfd7f84d78b4557d97"
+    },
+    {
       "name": "ps5-fw-spoof",
       "filename": "ps5-fw-spoof_v26616621599.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-fw-spoof_v26616621599.elf",

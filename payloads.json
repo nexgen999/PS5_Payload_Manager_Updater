@@ -34,6 +34,22 @@
       "checksum": "ce1c8b31036ab948da65b362a4b6f249ffca8a555fc5bc4b051ec65d041bc944"
     },
     {
+      "name": "bfpilot-core_v0.2.1",
+      "filename": "bfpilot-core_v0.2.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_file_explorer/bfpilot-core_v0.2.1.elf",
+      "description": "File explorer Core<PS5_IP>:5905",
+      "version": "v0.2.1"
+      "checksum": "4375479705f599147533e3ec667fb18bf03fe9de17eb29fb54c5998078d429e0"
+    },
+    {
+      "name": "bfpilot-full_v0.2.1",
+      "filename": "bfpilot-full_v0.2.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_file_explorer/bfpilot-full_v0.2.1.elf",
+      "description": "File explorer full <PS5_IP>:5905",
+      "version": "v0.2.1"
+      "checksum": "c5b66745332a4b353b0b32abd0ec408b179e7b6a7d22bd9c0db4be7250633fc7"
+    },
+    {
       "name": "Lapy-JB-Daemon",
       "filename": "Lapy-JB-Daemon_v1.2.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_file_explorer/Lapy-JB-Daemon_v1.2.elf",
@@ -159,7 +175,7 @@
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_kstuff/kstuff-lite_v1.0.7.elf",
       "description": "EchoStretch Kstuff Lite",
       "version": "v1.0.7"
-      "checksum": "886c3440c0a5d07e146ae5e7a13c7884fbdd9ef88407d962c29daf2ea1d910c0"
+      "checksum": "eb730eccd1a333f94e918076d053b4d20701f7c97e6356e591cebabfb4e0fa2d"
     },
     {
       "name": "kstuff",

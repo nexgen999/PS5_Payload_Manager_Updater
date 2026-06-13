@@ -250,6 +250,38 @@
       "checksum": "6a16c6457c604db4846632510da0975f49faba08e6cab9cfd7f84d78b4557d97"
     },
     {
+      "name": "ps5-self-pager-full-system",
+      "filename": "ps5-self-pager-full-system_v1.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-pager-full-system_v1.2",
+      "description": "ps5-self-pager-full-system",
+      "version": "v0.1.2"
+      "checksum": "fb498d4112611619150281e0c44afbd09f144c09eaca3ab3f5b306b39450d13a"
+    },
+    {
+      "name": "ps5-self-pager-game",
+      "filename": "ps5-self-pager-game_v1.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-pager-game_v1.2",
+      "description": "ps5-self-pager-game",
+      "version": "v0.1.2"
+      "checksum": "73d94fea5de9086cac26385c117a0b3098890c447d67536877fb7b51c9145aac"
+    },
+    {
+      "name": "ps5-self-pager-shellcore",
+      "filename": "ps5-self-pager-shellcore_v1.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-pager-shellcore_v1.2",
+      "description": "ps5-self-pager-shellcore",
+      "version": "v0.1.2"
+      "checksum": "2b500bc356b5bcfca5c3e5187bcec0a37c80ed05e39348b8f06bd2e5a6f3342b"
+    },
+    {
+      "name": "ps5-self-pager-system-common-lib",
+      "filename": "ps5-self-pager-system-common-lib_v1.2",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-self-pager-system-common-lib_v1.2",
+      "description": "ps5-self-pager-system-common-lib",
+      "version": "v0.1.2"
+      "checksum": "a86c3e69ed38656310b41af4f9221bdb2264ff4daf93fb4c2515fd54a216b701"
+    },
+    {
       "name": "ps5-fw-spoof",
       "filename": "ps5-fw-spoof_v26616621599.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_sdk_debug/ps5-fw-spoof_v26616621599.elf",

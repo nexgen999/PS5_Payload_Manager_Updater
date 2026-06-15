@@ -2,6 +2,14 @@
   "name": "ps5_cheat (PLDMGR Updater)",
   "payloads": [
     {
+      "name": "KylinCore - PS5 cheat engine",
+      "filename": "kylin-core-community-lite-v131-global-release.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/kylin-core-community-lite-v131-global-release.elf",
+      "description": "KylinCore - PS5 cheat engine for PS5",
+      "version": "v1.3.1"
+      "checksum": "2b731fc60b3d7996667b372bb8e31df7125d209ecacbb6838312a51b24b65c29"
+    },
+    {
       "name": "CheatRunner",
       "filename": "CheatRunner_v0.12.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/CheatRunner_v0.12.elf",

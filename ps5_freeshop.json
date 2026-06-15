@@ -11,11 +11,11 @@
     },
     {
       "name": "Spectrum-Library",
-      "filename": "Spectrum_Library_v1.3.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/Spectrum_Library_v1.3.elf",
+      "filename": "Spectrum_Library_v1.4.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/Spectrum_Library_v1.4.elf",
       "description": "FreeShop downloader (ps5ip:7575) User: test - Pass: 12345",
-      "version": "v1.3"
-      "checksum": "812658e40e02e0450c52f5442f558392526ad0dbf9d933d03bf975b7b05fd01d"
+      "version": "v1.4"
+      "checksum": "de2a7b8c192fc4f2d3c2210123d662a0a2e09998e2000fa064ca969ac72d427d"
     }
   ]
 }

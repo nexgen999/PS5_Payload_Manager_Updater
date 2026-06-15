@@ -2,10 +2,18 @@
   "name": "ps5_hen_loader (PLDMGR Updater)",
   "payloads": [
     {
-      "name": "elf-arsenal",
+      "name": "elf-arsenal Stable",
+      "filename": "elf-arsenal_v1.6.8.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/elf-arsenal_v1.6.8.elf",
+      "description": "ELF Arsenal loader - Stable",
+      "version": "v1.6.8"
+      "checksum": "268a7133cad5bb50c1bd3e318d269019f793faf4ecd974d7e3038970f9a7f60b"
+    },
+    {
+      "name": "elf-arsenal Beta",
       "filename": "elf-arsenal_v1.6.19.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/elf-arsenal_v1.6.19.elf",
-      "description": "ELF Arsenal loader",
+      "description": "ELF Arsenal loader - Beta",
       "version": "v1.6.19"
       "checksum": "fa30659b4df1d25a0bb94c0e198bd2da5db87d3608a157cbad58feb43c60e370"
     },

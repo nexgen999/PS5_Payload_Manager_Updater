@@ -11,11 +11,11 @@
     },
     {
       "name": "CheatRunner",
-      "filename": "CheatRunner_v0.12.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/CheatRunner_v0.12.elf",
+      "filename": "CheatRunner_v0.13.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/CheatRunner_v0.13.elf",
       "description": "Cheat runner for PS5",
-      "version": "v0.12"
-      "checksum": "129c6c248f4e77cf62465ccf761cccd15f74836ffd090b7a81431fc984b505c2"
+      "version": "v0.13"
+      "checksum": "0490d46c0ae8d3029106551f588ca9479f32df485678eb73c29685ad3072090b"
     },
     {
       "name": "KylinCore - PS5 cheat engine",

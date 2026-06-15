@@ -59,11 +59,11 @@
     },
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v3.3.2.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ps5upload_v3.3.2.elf",
+      "filename": "ps5upload_v3.3.3.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ps5upload_v3.3.3.elf",
       "description": "PS5 Upload tool",
-      "version": "v3.3.2"
-      "checksum": "65417f472668c955cbd892a9ba4a5170f671abfce2de4e136e7abd1a71f5626e"
+      "version": "v3.3.3"
+      "checksum": "e5b765f5e4e679c6030168ab621f38f64919aa37f189e85c657d130948d1dff8"
     },
     {
       "name": "shsrv-ps5",
@@ -86,16 +86,16 @@
       "filename": "zftpd-ps5-v1.4.0.elf",
       "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/zftpd-ps5-v1.4.0.elf",
       "description": "ZFTPD Server",
-      "version": "v1.4.0"
-      "checksum": "6d4559e0507ce4e6551e7c81af6bedb98863d28ff5694e76b3f7f94e38b82a96"
+      "version": "v1.5.0"
+      "checksum": "68a80e1cb45544c15b1581a49154ad14aa8e29483e5fec786f2a95e0e28ea6cb"
     },
     {
       "name": "zftpd-ps5-zhttp",
-      "filename": "zftpd-ps5-zhttp-v1.4.0.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/zftpd-ps5-zhttp-v1.4.0.elf",
+      "filename": "zftpd-ps5_v1.5.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/zftpd-ps5_v1.5.0.elf",
       "description": "ZFTPD with ZHTTP",
-      "version": "v1.4.0"
-      "checksum": "d882b33c6603d2f605ceb97aee3f229fac50d06082182a3a53eb7ce9b06d0e91"
+      "version": "v1.5.0"
+      "checksum": "6cf6a738112fc339619ebe772690fa611f60ecdb20164a0e3f49e137277bc42b"
     }
   ]
 }

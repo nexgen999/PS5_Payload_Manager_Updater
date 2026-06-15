@@ -3,11 +3,11 @@
   "payloads": [
     {
       "name": "pegasus_dl",
-      "filename": "pegasus_dl_v1.3.0.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/pegasus_dl_v1.3.0.elf",
+      "filename": "pegasus_dl_v1.4.0.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_freeshop/pegasus_dl_v1.4.0.elf",
       "description": "FreeShop downloader",
-      "version": "v1.3.0"
-      "checksum": "4fb014322f9f1470360d3e3e1357a46b8118876c625b71c928a999fd1e30058e"
+      "version": "v1.4.0"
+      "checksum": "3e2731fba643b7f303a6a6dc2092edf3bca213cc44d73463c9f74d3887c7bc09"
     },
     {
       "name": "Spectrum-Library",

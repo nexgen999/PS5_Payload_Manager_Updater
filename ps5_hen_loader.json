@@ -11,11 +11,11 @@
     },
     {
       "name": "elf-arsenal Beta",
-      "filename": "elf-arsenal_v1.6.19.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/elf-arsenal_v1.6.19.elf",
+      "filename": "elf-arsenal_v1.6.21.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_hen_loader/elf-arsenal_v1.6.21.elf",
       "description": "ELF Arsenal loader - Beta",
-      "version": "v1.6.19"
-      "checksum": "9965d9c69980a073d8c12f1b34d479041a73f0d55397a3abdfd11d8019f0fe08"
+      "version": "v1.6.21"
+      "checksum": "cec800889364e4e8a4586989f27a1e31717b3b384683386b88deef9c78bc50dd"
     },
     {
       "name": "etaHEN 2.6B",

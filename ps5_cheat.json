@@ -11,11 +11,11 @@
     },
     {
       "name": "CheatRunner",
-      "filename": "CheatRunner_v0.13.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/CheatRunner_v0.13.elf",
+      "filename": "CheatRunner_v0.14.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_cheat/CheatRunner_v0.14.elf",
       "description": "Cheat runner for PS5",
-      "version": "v0.13"
-      "checksum": "0490d46c0ae8d3029106551f588ca9479f32df485678eb73c29685ad3072090b"
+      "version": "v0.14"
+      "checksum": "5ffe8ed97fd6021cfad2b44a1be68c1b9f6e84c1e3a8d925f9e3b975235aa99f"
     }
   ]
 }

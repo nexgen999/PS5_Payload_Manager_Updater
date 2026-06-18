@@ -27,11 +27,11 @@
     },
     {
       "name": "PS5-Game-Compressor",
-      "filename": "game-compressor_v1.0.0.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_game_dump/game-compressor_v1.0.0.elf",
+      "filename": "game-compressor_v1.0.1.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_game_dump/game-compressor_v1.0.1.elf",
       "description": "Standalone game compressor for ShadowMountPlus titles with compress, uncompress, validate and repair, history, and move actions.",
-      "version": "v1.0.0"
-      "checksum": "29eb7e0b2d46ff23203597ce93ff463d7c4df65ace48b08ca65be3cb184491b2"
+      "version": "v1.0.1"
+      "checksum": "64dba49ef83b2508de4fb99e8b4cc86816812ea7bd70696a29c6b13c95994e9d"
     },
     {
       "name": "ShadowMountPlus",

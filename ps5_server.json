@@ -59,11 +59,11 @@
     },
     {
       "name": "ps5upload",
-      "filename": "ps5upload_v3.3.5.elf",
-      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ps5upload_v3.3.5.elf",
+      "filename": "ps5upload_v3.3.22.elf",
+      "url": "https://raw.githubusercontent.com/nexgen999/PS5_Payload_Manager_Updater/main/ps5_server/ps5upload_v3.3.22.elf",
       "description": "PS5 Upload tool",
-      "version": "v3.3.5"
-      "checksum": "f256667803831b49a84a7054c4623e30429b683e925381c3ac2df3885d2ea071"
+      "version": "v3.3.22"
+      "checksum": "6fac6e1fa572e8780a39b7d32f418eff8900f9d6c921d6aad926270db30f9527"
     },
     {
       "name": "shsrv-ps5",
